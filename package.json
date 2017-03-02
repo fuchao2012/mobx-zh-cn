@@ -1,0 +1,30 @@
+{
+  "name": "mobx",
+  "version": "1.0.0",
+  "description": "chinese version manual of mobx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchao2012/mobx-zh-cn.git"
+  },
+  "dependencies": {
+    "docsify": "^3.2.0"
+  },
+  "keywords": [
+    "mbox",
+    "zh-cn",
+    "translation",
+    "docsify"
+  ],
+  "author": "fuchao.zheng",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/fuchao2012/mobx-zh-cn/issues"
+  },
+  "homepage": "https://github.com/fuchao2012/mobx-zh-cn#readme"
+}
