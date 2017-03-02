@@ -1,5 +1,18 @@
 ## Mobx 入门手册
 
+这是一个基于 [docsify](https://docsify.js.org/#/zh-cn/custom-navbar) 组织的 mobx的翻译稿项目 
+
+### 进度列表
+
+* [ ] Intro
+* [ ] API 
+* [ ] Observable
+* [ ] Responsive
+* [ ] Decorator
+* [ ] Points & Tips
+* [ ] Practice
+* [ ] Resources
+
 ### 下载查看文档
 
 ```
@@ -12,7 +25,8 @@ cnpm i && npm run start
 
 如果你闲来无事，可以向这个仓库贡献代码（翻译）不过你得知道以下几点，否则看看已经完成的翻译稿也不错
 
-* Markdown 
+* Markdown 编写
+* git commit message rules
 * git rebase
 * react + mbox
 
@@ -29,5 +43,3 @@ cnpm i && npm run start
 * 外文翻译结果的贡献，忽然发现 vue2的构建过程就是用这个呢
 * 组织更好看的输出结果
 * [ ] 正准备给 docsify 提 pr 提供下载 pdf 的功能
-
-
