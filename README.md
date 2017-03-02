@@ -1,16 +1,24 @@
 ## Mobx 入门手册
 
-### 下载
-
-### 安装
+### 下载查看文档
 
 ```
-cnpm i && npm start
+git clone https://github.com/fuchao2012/mobx-zh-cn.git
+cd mobx-zh-cn
+cnpm i && npm run start
 ```
 
 ### 贡献
 
-* [fuchao](fuchao2012)
+如果你闲来无事，可以向这个仓库贡献代码（翻译）不过你得知道以下几点，否则看看现在翻译完成的也不错
+
+* Markdown 
+* git rebase
+* react + mbox
+
+> 贡献者列表
+
+* [fuchao](https://github.com/fuchao2012)
 
 ### 感谢
 
