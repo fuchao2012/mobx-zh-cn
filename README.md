@@ -1,17 +1,17 @@
 ## Mobx 入门手册
 
-这是一个基于 [docsify](https://docsify.js.org/#/zh-cn/custom-navbar) 组织的 mobx的翻译稿项目 
+这是一个基于 [docsify](https://docsify.js.org/#/zh-cn/custom-navbar) 组织的 mobx的翻译稿项目，并非纯翻译，翻译过程会添加大量译者评注，未来也会作为博文发布。
 
 ### 进度列表
 
-* [ ] Intro
-* [ ] API 
-* [ ] Observable
-* [ ] Responsive
-* [ ] Decorator
-* [ ] Points & Tips
-* [ ] Practice
-* [ ] Resources
+- [ ] Intro
+- [ ] API 
+- [ ] Observable
+- [ ] Responsive
+- [ ] Decorator
+- [ ] Points & Tips
+- [ ] Practice
+- [ ] Resources
 
 ### 下载查看文档
 
